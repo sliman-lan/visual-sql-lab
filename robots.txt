@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sliman-lan.github.io/visual-sql-lab/sitemap.xml
